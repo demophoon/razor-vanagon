@@ -6,6 +6,6 @@ gpg_key: '7F438280EF8D349F'
 gpg_nonfinal_key: 'B8F999C007BB6C57'
 sign_tar: FALSE
 vanagon_project: TRUE
-repo_name: 'puppet5'
-nonfinal_repo_name: 'puppet5-nightly'
+repo_name: 'main'
+nonfinal_repo_name: 'main'
 build_tar: FALSE
